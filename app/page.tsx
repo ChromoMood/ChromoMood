@@ -6,8 +6,8 @@ import TypingAnimation from "@/components/sentiment/typing-animation";
 export default function Home() {
   return (
     <div className="p-10">
-      <TypingAnimation/>
-      <SentimentAnalyzer/>
+      <TypingAnimation />
+      <SentimentAnalyzer />
     </div>
   );
 }
