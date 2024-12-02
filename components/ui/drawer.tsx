@@ -35,8 +35,25 @@ export default function Drawer({ isOpen, onClose }: DrawerProps) {
               </button>
             </div>
             <div className="relative flex-1 px-4 py-6">
-              <div className="space-y-6"></div>
+              <div className="space-y-6">
+                {/* 기존 컨텐츠 */}
+              </div>
             </div>
+
+            {/* 추가된 부분: GitHub 아이콘 */}
+            <div className="flex justify-center py-4">
+              <button className="flex items-center space-x-2">
+                <img
+                  src="/github-icon.png" // public 폴더에 저장된 이미지 경로
+                  alt="GitHub Icon"
+                  className="w-6 h-6" // 아이콘 크기 설정
+                />
+                <span className="text-sm font-medium text-gray-700">
+                  GitHub
+                </span>
+              </button>
+            </div>
+            {/* 추가된 부분 끝 */}
           </div>
         </div>
       </Dialog>
