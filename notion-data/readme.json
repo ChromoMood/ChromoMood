@@ -1,0 +1,1937 @@
+{
+    "object": "page",
+    "id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5",
+    "created_time": "2024-12-01T06:48:00.000Z",
+    "last_edited_time": "2024-12-01T06:50:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "1446a1ef-3afb-8020-9bf4-cd50c2450027"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Tags": {
+        "id": "P%60%5DN",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Created": {
+        "id": "nknN",
+        "type": "date",
+        "date": null
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ChoromMood",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ChoromMood",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/ChoromMood-14f6a1ef3afb802bbf52d13ae61bebe5",
+    "public_url": "https://glen-efraasia-48c.notion.site/ChoromMood-14f6a1ef3afb802bbf52d13ae61bebe5",
+    "request_id": "c55f7a07-4687-4ecd-a3a6-d7cd34aa5bae",
+    "blocks": [
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80b9-861d-c0a639263fed",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "ChromMood : Emotion to Color",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "ChromMood : Emotion to Color",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80bd-b395-e6f65dbcd462",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Text to Emotion, Emotion to Color: We transform your words into stories painted with beautiful colors.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Text to Emotion, Emotion to Color: We transform your words into stories painted with beautiful colors.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8057-b025-e8ecd629b444",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Overview",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Overview",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80c3-9930-c8204765a255",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "This service analyzes the emotional content of text and visualizes it through colors. By processing your input text, it determines the emotional tone and assigns corresponding colors that reflect those emotions, creating a unique visual representation of sentiment.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "This service analyzes the emotional content of text and visualizes it through colors. By processing your input text, it determines the emotional tone and assigns corresponding colors that reflect those emotions, creating a unique visual representation of sentiment.",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-800d-8ce6-c1d93c68a9c6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Features",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Features",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8097-b410-d27221725b01",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Sentiment Analysis",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Sentiment Analysis",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ": Analyzes text to determine emotional content",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ": Analyzes text to determine emotional content",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-808b-90dd-f977548351e5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Color Mapping",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Color Mapping",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ": Converts emotional scores into meaningful colors",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ": Converts emotional scores into meaningful colors",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80d6-8d6e-f113136ac35d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Emotion Labels",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Emotion Labels",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ": Provides specific emotion labels (e.g., Serenity, Trust, Amazement)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ": Provides specific emotion labels (e.g., Serenity, Trust, Amazement)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80df-b4d2-c74f499ca9e9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Visual Feedback",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Visual Feedback",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ": Shows sentiment scores with color-coded progress bars",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ": Shows sentiment scores with color-coded progress bars",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8042-8d73-de5768970e4a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Real-time Processing",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Real-time Processing",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ": Instant analysis and visualization",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ": Instant analysis and visualization",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80e0-a1b1-c65b04654b91",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Color-Emotion Mapping",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Color-Emotion Mapping",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8045-a868-d1e26857a0e2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Very Positive (Serenity) - Bright Yellow (#FFD700)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Very Positive (Serenity) - Bright Yellow (#FFD700)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80f8-9259-ed0457ed91f7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Positive (Trust) - Light Green (#98FB98)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Positive (Trust) - Light Green (#98FB98)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-801c-a059-c04d765e28ab",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Slightly Positive (Amazement) - Sky Blue (#87CEEB)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Slightly Positive (Amazement) - Sky Blue (#87CEEB)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8073-91d1-d3792d415fec",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Neutral Positive (Interest) - Light Purple (#DDA0DD)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Neutral Positive (Interest) - Light Purple (#DDA0DD)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-806d-b499-c8209786fdb0",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Neutral - Gray (#808080)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Neutral - Gray (#808080)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80de-96d6-d482738393ce",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Neutral Negative (Pensiveness) - Dark Navy (#483D8B)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Neutral Negative (Pensiveness) - Dark Navy (#483D8B)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-809a-86c2-c1de8724b3c3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Slightly Negative (Sadness) - Indigo (#4B0082)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Slightly Negative (Sadness) - Indigo (#4B0082)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80df-831c-c8f7f2271f1d",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Negative (Remorse) - Brown (#8B4513)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Negative (Remorse) - Brown (#8B4513)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80a1-b66f-d7590af18c2f",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Very Negative (Grief) - Dark Red (#800000)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Very Negative (Grief) - Dark Red (#800000)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8009-a349-f7687a207fae",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Technology Stack",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Technology Stack",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-805c-87de-ec79e96421c8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Next.js",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Next.js",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80db-8e44-c740c865cae7",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "React",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "React",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-809d-a43a-e4a3f17dc02a",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "TypeScript",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "TypeScript",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-808e-b117-d8ceefeae788",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Transformers.js (Xenova)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Transformers.js (Xenova)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-806c-bdaa-f76d39a38f27",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Framer Motion",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Framer Motion",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-804b-ada8-ee8a369f2e17",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tailwind CSS",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tailwind CSS",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8075-8f31-d4c407c36291",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Model",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Model",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80be-a860-d70e6d0f0c01",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Using DistilBERT model fine-tuned for sentiment analysis:",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Using DistilBERT model fine-tuned for sentiment analysis:",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8005-82a6-dec39d7e5573",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Model: \"Xenova/distilbert-base-uncased-finetuned-sst-2-english\"",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Model: \"Xenova/distilbert-base-uncased-finetuned-sst-2-english\"",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80f2-a70a-ce7c42f0ffe9",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Usage",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Usage",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80f7-82d8-e9812c3471bf",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Enter your text in English",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Enter your text in English",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80c2-beaf-dc4f337dd079",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Click the \"Analyze Sentiment\" button",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Click the \"Analyze Sentiment\" button",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80d3-bedc-f50861a6e6a2",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "View the emotional analysis results and corresponding color visualization",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "View the emotional analysis results and corresponding color visualization",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80a8-a67a-f3c94432b0a3",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "numbered_list_item",
+        "numbered_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "See detailed sentiment scores with visual indicators",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "See detailed sentiment scores with visual indicators",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-8066-b400-f04d99f037b8",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:49:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Note",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Note",
+              "href": null
+            }
+          ],
+          "is_toggleable": false,
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80b1-a51d-c10e0150795c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Currently supports English text only",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Currently supports English text only",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80db-a13d-ed4b9ec6b8d6",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Requires modern web browser for optimal performance",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Requires modern web browser for optimal performance",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-802e-9351-ec7e67e1cd3c",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:48:00.000Z",
+        "last_edited_time": "2024-12-01T06:48:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Analysis is performed client-side for privacy",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Analysis is performed client-side for privacy",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        "blocks": []
+      },
+      {
+        "object": "block",
+        "id": "14f6a1ef-3afb-80e6-a47b-c3f1c865b8d5",
+        "parent": {
+          "type": "page_id",
+          "page_id": "14f6a1ef-3afb-802b-bf52-d13ae61bebe5"
+        },
+        "created_time": "2024-12-01T06:50:00.000Z",
+        "last_edited_time": "2024-12-01T06:50:00.000Z",
+        "created_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "last_edited_by": {
+          "object": "user",
+          "id": "3be13fb0-831d-4850-8a52-bd2c1f404aef"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [],
+          "color": "default"
+        },
+        "blocks": []
+      }
+    ]
+  }

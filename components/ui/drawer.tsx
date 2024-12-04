@@ -1,6 +1,7 @@
-import { Fragment } from "react";
+import { Fragment, useEffect, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
 import { XMarkIcon } from "@heroicons/react/24/outline";
+import { NotionRenderer } from "./notion-renderer";
 
 interface DrawerProps {
   isOpen: boolean;
@@ -8,6 +9,19 @@ interface DrawerProps {
 }
 
 export default function Drawer({ isOpen, onClose }: DrawerProps) {
+  const [post, setPost] = useState<{ blocks: any[] }>({ blocks: [] });
+
+  useEffect(() => {
+    // JSON 파일을 fetch로 불러오는 방식
+    const fetchPostData = async () => {
+      const response = await fetch('/notion-data/readme.json'); // 상대 경로로 JSON 파일을 가져옴
+      const data = await response.json();
+      setPost({ blocks: data.blocks });
+    };
+
+    fetchPostData();
+  }, []); // 컴포넌트가 처음 렌더링될 때 한 번만 실행
+
   return (
     <Transition.Root show={isOpen} as={Fragment}>
       <Dialog as="div" className="relative z-50" onClose={onClose}>
@@ -35,7 +49,10 @@ export default function Drawer({ isOpen, onClose }: DrawerProps) {
               </button>
             </div>
             <div className="relative flex-1 px-4 py-6">
-              <div className="space-y-6"></div>
+              <div className="space-y-6">
+                {/* post.blocks를 전달 */}
+                <NotionRenderer blocks={post.blocks} title="" cover="" />
+              </div>
             </div>
           </div>
         </div>
