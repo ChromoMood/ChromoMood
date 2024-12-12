@@ -1,8 +1,9 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { motion } from "framer-motion";
+import debounce from "lodash/debounce";
 
 interface SentimentResult {
   positive: number;
@@ -60,37 +61,40 @@ const SentimentAnalyzer = () => {
     loadModel();
   }, []);
 
-  const analyzeSentiment = async () => {
-    if (!pipeline) {
-      setError("Model has not been loaded yet.");
-      return;
-    }
+  const analyzeSentiment = useCallback(
+    debounce(async () => {
+      if (!pipeline) {
+        setError("Model has not been loaded yet.");
+        return;
+      }
 
-    try {
-      setIsAnalyzing(true);
-      setError("");
+      try {
+        setIsAnalyzing(true);
+        setError("");
 
-      const result = await pipeline(text);
-      const sentimentScore =
-        result[0].label === "POSITIVE" ? result[0].score : -result[0].score;
-      const { color, emotion } = getEmotionColor(sentimentScore);
+        const result = await pipeline(text);
+        const sentimentScore =
+          result[0].label === "POSITIVE" ? result[0].score : -result[0].score;
+        const { color, emotion } = getEmotionColor(sentimentScore);
 
-      const scores: SentimentResult = {
-        positive: result[0].label === "POSITIVE" ? result[0].score : 0,
-        negative: result[0].label === "NEGATIVE" ? result[0].score : 0,
-        neutral: 1 - result[0].score,
-        color,
-        emotion,
-      };
+        const scores: SentimentResult = {
+          positive: result[0].label === "POSITIVE" ? result[0].score : 0,
+          negative: result[0].label === "NEGATIVE" ? result[0].score : 0,
+          neutral: 1 - result[0].score,
+          color,
+          emotion,
+        };
 
-      setResult(scores);
-    } catch (err) {
-      console.error("Analysis error:", err);
-      setError("Error occurred during analysis.");
-    } finally {
-      setIsAnalyzing(false);
-    }
-  };
+        setResult(scores);
+      } catch (err) {
+        console.error("Analysis error:", err);
+        setError("Error occurred during analysis.");
+      } finally {
+        setIsAnalyzing(false);
+      }
+    }, 500),
+    [text]
+  );
 
   return (
     <div className="space-y-4 p-4">

@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Group 6](https://github.com/user-attachments/assets/ee75d501-e7ec-4e47-a2a1-54b49aee7ed8)
 
-## Getting Started
+<h1>ChromoMood</h1>
+<div>Text to Emotion, Emotion to Color</div>
+<div>We transform your words into stories painted with beautiful colors</div>
 
-First, run the development server:
+## Overview
+<div>This service analyzes the emotional content of text and visualizes it through colors. </div>
+<div>By processing your input text, it determines the emotional tone and assigns corresponding colors that reflect those emotions, </div>
+<div>creating a unique visual representation of sentiment.</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Demo
+
+![eg1](https://i.ibb.co/sC6Lrm8/eg1.png)|![eg2](https://i.ibb.co/pnZb20B/eg2.png)
+--- | --- | 
+
+## Features
+- **Sentiment Analysis**: Analyzes text to determine emotional content
+- **Color Mapping**: Converts emotional scores into meaningful colors
+- **Emotion Labels**: Provides specific emotion labels (e.g., Serenity, Trust, Amazement)
+- **Visual Feedback**: Shows sentiment scores with color-coded progress bars
+- **Real-time Processing**: Instant analysis and visualization
+
+## Color-Emotion Mapping
+- **Very Positive (Serenity)** - Bright Yellow (#FFD700)
+- **Positive (Trust)** - Light Green (#98FB98)
+- **Slightly Positive (Amazement)** - Sky Blue (#87CEEB)
+- **Neutral Positive (Interest)** - Light Purple (#DDA0DD)
+- **Neutral** - Gray (#808080)
+- **Neutral Negative (Pensiveness)** - Dark Navy (#483D8B)
+- **Slightly Negative (Sadness)** - Indigo (#4B0082)
+- **Negative (Remorse)** - Brown (#8B4513)
+- **Very Negative (Grief)** - Dark Red (#800000)
+
+## Technology Stack
+- Next.js
+- React
+- TypeScript
+- Transformers.js (Xenova)
+- Framer Motion
+- Tailwind CSS
+
+## Install
+
+```sh
+dependencies + dev dependencies
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Model
+Using DistilBERT model fine-tuned for sentiment analysis:
+- Model: "Xenova/distilbert-base-uncased-finetuned-sst-2-english"
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Usage
+**1.**  Enter your text in English
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**2.**  Click the "Analyze Sentiment" button
 
-## Learn More
+**3.**  View the emotional analysis results and corresponding color visualization
 
-To learn more about Next.js, take a look at the following resources:
+**4.**  See detailed sentiment scores with visual indicators
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Note
+- Currently supports English text only
+- Requires modern web browser for optimal performance
+- Analysis is performed client-side for privacy
