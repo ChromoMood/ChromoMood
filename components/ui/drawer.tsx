@@ -12,15 +12,14 @@ export default function Drawer({ isOpen, onClose }: DrawerProps) {
   const [post, setPost] = useState<{ blocks: any[] }>({ blocks: [] });
 
   useEffect(() => {
-    // JSON 파일을 fetch로 불러오는 방식
     const fetchPostData = async () => {
-      const response = await fetch('/notion-data/readme.json'); // 상대 경로로 JSON 파일을 가져옴
+      const response = await fetch('/notion-data/readme.json'); 
       const data = await response.json();
       setPost({ blocks: data.blocks });
     };
 
     fetchPostData();
-  }, []); // 컴포넌트가 처음 렌더링될 때 한 번만 실행
+  }, []);
 
   return (
     <Transition.Root show={isOpen} as={Fragment}>
@@ -49,16 +48,12 @@ export default function Drawer({ isOpen, onClose }: DrawerProps) {
               </button>
             </div>
             <div className="relative flex-1 px-4 py-6">
-              
-<div className="space-y-6">
-  {/* post.blocks를 전달 */}
-  <NotionRenderer blocks={post.blocks} title="" cover="" />
-</div>
+              <div className="space-y-6">
+                <NotionRenderer blocks={post.blocks} title="" cover="" />
               </div>
             </div>
-
-            {/* 추가된 부분: GitHub 아이콘 */}
-            <div className="flex justify-center py-4">
+           {/* 추가된 부분: GitHub 아이콘 */}
+           <div className="flex justify-center py-4">
               <button className="flex items-center space-x-2">
                 <img
                   src="/github-icon.png" // public 폴더에 저장된 이미지 경로
